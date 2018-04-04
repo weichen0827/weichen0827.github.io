@@ -1,9 +1,23 @@
+---
+layout:     post
+title:      "谷歌 书签 "
+subtitle:   ""
+date:       2018-04-04
+author:     "charles"
+header-img: ""
+tags:
+    - google
+    - bookmark
+    - 谷歌
+    - 书签
+---
+
+
 # Bookmarks
 
 [TOC]
 
 ### Temp
-
 - [Mediawiki中文技术论坛 mediawiki论坛|mediawiki插件 - Powered by Discuz!](http://www.mediawiki.info/)
 - [mediawiki的管理与使用 - fandyst - 博客园](https://www.cnblogs.com/ToDoToTry/p/4475067.html)
 - [我的笔记文档版本控制系统-MediaWiki-安装/基本设置 - snowsolf - 博客园](https://www.cnblogs.com/snowsolf/p/MediaWiki.html)
@@ -245,7 +259,7 @@
  - [孙鑫 14章 基于TCP的网络应用程序的编写 用VC2012运行，总出现烫烫烫-CSDN论坛](http://bbs.csdn.net/topics/391879482)
  - [【转帖·Win Socket】Windows Socket编程头文件以及lib - CSDN博客](http://blog.csdn.net/teleinfor/article/details/5352169)
  - [buffer[nbytes]=‘\0&#39;这句话是什么意思？能否详细解释下下面这个程序的作用？如何在linux下运行其效果？_百度知道](https://zhidao.baidu.com/question/431455513.html)
-   
+
 - [Downloads - My Visual Studio](https://my.visualstudio.com/Downloads?q=visual%20studio%202015&wt.mc_id=o~msft~vscom~older-downloads)
 
 
@@ -260,7 +274,7 @@
  - [GitHub 上有哪些优秀的项目？ - 知乎](https://www.zhihu.com/question/20584141)
  - [国内有哪些互联网公司在使用 GitHub 托管代码、发布开源项目的？ - 知乎](https://www.zhihu.com/question/20121737)
  - [buunguyen/octotree: Code tree for GitHub](https://github.com/buunguyen/octotree)
-   
+
 - [解决向github提交代码不用输入帐号密码 - 学习总结 - SegmentFault](https://segmentfault.com/a/1190000008435592)
 - [git 把远程分支拿到本地，并建立关联关系track - weistar - ITeye博客](http://weistar.iteye.com/blog/2168725)
 - [[原创]CI持续集成系统环境--Gitlab+Gerrit+Jenkins完整对接 - 散尽浮华 - 博客园](http://www.cnblogs.com/kevingrace/p/5651447.html)
