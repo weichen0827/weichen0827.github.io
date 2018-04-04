@@ -13,11 +13,11 @@ tags:
 ---
 
 
-# Bookmarks
+#Bookmarks
 
 [TOC]
 
-### Temp
+###Temp
 - [Mediawiki中文技术论坛 mediawiki论坛|mediawiki插件 - Powered by Discuz!](http://www.mediawiki.info/)
 - [mediawiki的管理与使用 - fandyst - 博客园](https://www.cnblogs.com/ToDoToTry/p/4475067.html)
 - [我的笔记文档版本控制系统-MediaWiki-安装/基本设置 - snowsolf - 博客园](https://www.cnblogs.com/snowsolf/p/MediaWiki.html)
@@ -33,7 +33,7 @@ tags:
 - [谷歌浏览器插件备份_百度搜索](https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%A4%87%E4%BB%BD&pn=10&oq=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%A4%87%E4%BB%BD&ie=utf-8&rsv_pq=f993c7da00029a45&rsv_t=66b5zUg1pgVpH4u0jHU57GkSSAaOyUg5%2BzBHmUewfm5RMPxh0st%2F%2B1sXwec&rsv_page=1)
 - [Start | Chrome Extension Downloader](https://chrome-extension-downloader.com/)
 
-### 搜索
+###搜索
 
 - [微软必应搜索 - 全球搜索，有问必应 (Bing)](http://cn.bing.com/)
 - [Google.hk](https://www.google.com.hk/)
