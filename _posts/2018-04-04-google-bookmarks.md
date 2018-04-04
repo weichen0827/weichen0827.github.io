@@ -13,11 +13,11 @@ tags:
 ---
 
 
-#Bookmarks
+# Bookmarks
 
 [TOC]
 
-###Temp
+### Temp
 - [Mediawiki中文技术论坛 mediawiki论坛|mediawiki插件 - Powered by Discuz!](http://www.mediawiki.info/)
 - [mediawiki的管理与使用 - fandyst - 博客园](https://www.cnblogs.com/ToDoToTry/p/4475067.html)
 - [我的笔记文档版本控制系统-MediaWiki-安装/基本设置 - snowsolf - 博客园](https://www.cnblogs.com/snowsolf/p/MediaWiki.html)
@@ -33,7 +33,7 @@ tags:
 - [谷歌浏览器插件备份_百度搜索](https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%A4%87%E4%BB%BD&pn=10&oq=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%A4%87%E4%BB%BD&ie=utf-8&rsv_pq=f993c7da00029a45&rsv_t=66b5zUg1pgVpH4u0jHU57GkSSAaOyUg5%2BzBHmUewfm5RMPxh0st%2F%2B1sXwec&rsv_page=1)
 - [Start | Chrome Extension Downloader](https://chrome-extension-downloader.com/)
 
-###搜索
+### 搜索
 
 - [微软必应搜索 - 全球搜索，有问必应 (Bing)](http://cn.bing.com/)
 - [Google.hk](https://www.google.com.hk/)
@@ -89,7 +89,7 @@ tags:
 
 ### 技术/
 
-####linux配置
+#### linux配置
 
 - [Ubuntu配置和修改IP地址 - aristolto的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/aristolto/article/details/50543928)
 - [Ubuntu 12.04右键在当前位置打开终端_Linux教程_Linux公社-Linux系统门户网站](http://www.linuxidc.com/Linux/2012-05/59565.htm)
@@ -274,7 +274,6 @@ tags:
  - [GitHub 上有哪些优秀的项目？ - 知乎](https://www.zhihu.com/question/20584141)
  - [国内有哪些互联网公司在使用 GitHub 托管代码、发布开源项目的？ - 知乎](https://www.zhihu.com/question/20121737)
  - [buunguyen/octotree: Code tree for GitHub](https://github.com/buunguyen/octotree)
-
 - [解决向github提交代码不用输入帐号密码 - 学习总结 - SegmentFault](https://segmentfault.com/a/1190000008435592)
 - [git 把远程分支拿到本地，并建立关联关系track - weistar - ITeye博客](http://weistar.iteye.com/blog/2168725)
 - [[原创]CI持续集成系统环境--Gitlab+Gerrit+Jenkins完整对接 - 散尽浮华 - 博客园](http://www.cnblogs.com/kevingrace/p/5651447.html)
